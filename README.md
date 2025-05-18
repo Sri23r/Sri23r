@@ -2,7 +2,11 @@
 
 🔭 I’m currently in my final year, pursuing Master's degree in Computer Application.
 
-⚡ I'm currenlty learning DSA, Java, Web Development.
+⚡ I'm currenlty learning DSA.
+
+🧠 Proficient in problem Solving using Java.
+
+Building Web Application Projects.
 
 👯 I’m looking to collaborate on SDE roles.
 
