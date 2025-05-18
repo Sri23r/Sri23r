@@ -22,6 +22,8 @@ ________________________________________________________________________________
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=react,mysql,git,postman)](https://skillicons.dev)
+
 
 
 <!--
