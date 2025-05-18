@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 : it's Srinath here
+
+🔭 I’m currently in my final year, pursuing Master's degree in Computer Application.
+⚡ I'm currenlty learning DSA, Java, Web Development.
+👯 I’m looking to collaborate on SDE roles.
+Self taught Programmer 🙂
+
+
+
 
 <!--
 **Sri23r/Sri23r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
