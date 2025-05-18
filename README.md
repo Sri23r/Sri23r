@@ -16,7 +16,11 @@ Self taught Programmer 🙂
 
 ![image](https://github.com/user-attachments/assets/d26d8ad8-2e58-452a-a32d-f5115a19aa37)
 
+______________________________________________________________________________________________________________________________
 
+## My Tech Stack and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
