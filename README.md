@@ -12,6 +12,8 @@ Building Web Application Projects.
 
 Self taught Programmer 🙂
 
+😊 Curious to Know about me
+
 ![image](https://github.com/user-attachments/assets/d26d8ad8-2e58-452a-a32d-f5115a19aa37)
 
 
