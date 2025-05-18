@@ -3,7 +3,9 @@
 🔭 I’m currently in my final year, pursuing Master's degree in Computer Application.
 
 ⚡ I'm currenlty learning DSA, Java, Web Development.
+
 👯 I’m looking to collaborate on SDE roles.
+
 Self taught Programmer 🙂
 
 
