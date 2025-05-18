@@ -24,6 +24,8 @@ ________________________________________________________________________________
 
 [![My Skills](https://skillicons.dev/icons?i=react,mysql,git,postman)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)](https://skillicons.dev)
+
 
 
 <!--
